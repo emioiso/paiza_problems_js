@@ -1,3 +1,3 @@
 # paiza_problems
-paizaの公開して良い問題集
+paizaの公開が許可されている問題集
 
